@@ -10,6 +10,7 @@ __pycache__/
 *.pyproj
 *.sln
 *.json
+.vs
 
 
 # Distribution / packaging
