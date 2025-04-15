@@ -9,6 +9,8 @@ __pycache__/
 #studio individual files
 *.pyproj
 *.sln
+*.json
+
 
 # Distribution / packaging
 .Python
